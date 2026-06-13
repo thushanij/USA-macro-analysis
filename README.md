@@ -9,10 +9,10 @@
 
 | | |
 |:---:|:---:|
-| ![EDA](outputs/macro_01_eda.png) **EDA Dashboard** | ![Correlation](outputs/macro_02_correlation.png) **Correlation Analysis** |
-| ![Stationarity](outputs/macro_03_stationarity.png) **ADF Stationarity** | ![ML](outputs/macro_04_recession_ml.png) **Recession ML** |
-| ![Ridge](outputs/macro_05_gdp_forecast.png) **GDP Ridge Forecast** | ![ARIMA](outputs/macro_06_arima.png) **ARIMA Forecast** |
-| ![Business Cycle](outputs/macro_07_business_cycle.png) **Business Cycle** | |
+| ![EDA](Outputs/macro_01_eda.png) **EDA Dashboard** | ![Correlation](Outputs/macro_02_correlation.png) **Correlation Analysis** |
+| ![Stationarity](Outputs/macro_03_stationarity.png) **ADF Stationarity** | ![ML](Outputs/macro_04_recession_ml.png) **Recession ML** |
+| ![Ridge](Outputs/macro_05_gdp_forecast.png) **GDP Ridge Forecast** | ![ARIMA](Outputs/macro_06_arima.png) **ARIMA Forecast** |
+| ![Business Cycle](Outputs/macro_07_business_cycle.png) **Business Cycle** | |
 
 ---
 
